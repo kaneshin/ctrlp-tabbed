@@ -1,0 +1,10 @@
+CtrlP-Tabbed
+============
+
+This plugin is based on [mattn/ctrlp-register - GitHub](https://github.com/mattn/ctrlp-register).
+
+Author
+------
+
+Shintaro Kaneko <kaneshin0120@gmail.com>
+
