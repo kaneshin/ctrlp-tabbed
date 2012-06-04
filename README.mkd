@@ -1,7 +1,9 @@
 CtrlP-Tabbed
 ============
 
-This plugin is based on [mattn/ctrlp-register - GitHub](https://github.com/mattn/ctrlp-register).
+This plugin is a extension of kien/ctrlp.vim.
+
+- [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim)
 
 Author
 ------
